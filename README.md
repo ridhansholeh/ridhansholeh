@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋 I'm a Software Engineer
 
 <!--
 **ridhansholeh/ridhansholeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working From Anywhere
+- 📫 How to reach me: you can find more about me at https://ridhan.cobaryu.id
+
+Let's work together and make some awesome app 🎉
+
+---
+### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ridhansholeh&hide_border=true&locale=id)](https://github.com/ridhansholeh)
+
+---
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ridhansholeh&layout=compact)](https://github.com/ridhansholeh)
+
+---
+### 🔥 Github Activity Graph
+[![Ridhan's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhansholeh&bg_color=ffffff&color=003bd4&line=245ff8&point=403d3d&area=true&hide_border=true)](https://github.com/ridhansholeh)
