@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working From Anywhere
-- 📫 How to reach me: you can find more about me at https://ridhan.cobaryu.id
+- 📫 How to reach me: you can find more about me at https://ridhan.dev
 
 Let's work together and make some awesome app 🎉
 
